@@ -1,0 +1,11 @@
+Model Information:
+* title:	Joe_ Silly Dancing
+* source:	https://sketchfab.com/3d-models/joe--silly-dancing-a8cad78521054031bfabb40355950b8b
+* author:	Joe chakrapong (https://sketchfab.com/chakrapong)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Joe_ Silly Dancing" (https://sketchfab.com/3d-models/joe--silly-dancing-a8cad78521054031bfabb40355950b8b) by Joe chakrapong (https://sketchfab.com/chakrapong) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

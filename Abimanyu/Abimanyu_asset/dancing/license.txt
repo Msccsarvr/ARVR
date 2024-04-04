@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dancing
+* source:	https://sketchfab.com/3d-models/dancing-b94560a9adcb48a99a3f530f0c0ca601
+* author:	anime_amari (https://sketchfab.com/anime_amari)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dancing" (https://sketchfab.com/3d-models/dancing-b94560a9adcb48a99a3f530f0c0ca601) by anime_amari (https://sketchfab.com/anime_amari) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
