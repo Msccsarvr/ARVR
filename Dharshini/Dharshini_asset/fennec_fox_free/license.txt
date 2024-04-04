@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fennec Fox Free
+* source:	https://sketchfab.com/3d-models/fennec-fox-free-68a1c810abee435a8207410b31c0456c
+* author:	Evil_Katz (https://sketchfab.com/Evil_Katz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fennec Fox Free" (https://sketchfab.com/3d-models/fennec-fox-free-68a1c810abee435a8207410b31c0456c) by Evil_Katz (https://sketchfab.com/Evil_Katz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
