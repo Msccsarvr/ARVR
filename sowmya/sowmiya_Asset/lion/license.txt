@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lion
+* source:	https://sketchfab.com/3d-models/lion-c14548c4ac994b9981dbd31eb049e5a7
+* author:	keh (https://sketchfab.com/keh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lion" (https://sketchfab.com/3d-models/lion-c14548c4ac994b9981dbd31eb049e5a7) by keh (https://sketchfab.com/keh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
