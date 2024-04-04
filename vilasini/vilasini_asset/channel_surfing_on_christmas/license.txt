@@ -1,0 +1,11 @@
+Model Information:
+* title:	Channel Surfing on Christmas
+* source:	https://sketchfab.com/3d-models/channel-surfing-on-christmas-695f3d506a2d429db09b211ff78172a0
+* author:	parjen (https://sketchfab.com/parjen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Channel Surfing on Christmas" (https://sketchfab.com/3d-models/channel-surfing-on-christmas-695f3d506a2d429db09b211ff78172a0) by parjen (https://sketchfab.com/parjen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

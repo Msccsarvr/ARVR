@@ -1,0 +1,11 @@
+Model Information:
+* title:	1GGP06E Van Hoye Bart House Model
+* source:	https://sketchfab.com/3d-models/1ggp06e-van-hoye-bart-house-model-af43a50eb6dc4b8c8a81b8bac0d3447a
+* author:	BartVanHoye (https://sketchfab.com/BartVanHoye)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1GGP06E Van Hoye Bart House Model" (https://sketchfab.com/3d-models/1ggp06e-van-hoye-bart-house-model-af43a50eb6dc4b8c8a81b8bac0d3447a) by BartVanHoye (https://sketchfab.com/BartVanHoye) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

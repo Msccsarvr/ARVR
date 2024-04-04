@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+  <script src="https://raw.githack.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.min.js"></script>
+  <script src="https://raw.githack.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
+  <script>
+    THREEx.ArToolkitContext.baseURL = 'https://raw.githack.com/jeromeetienne/ar.js/master/three.js/';
+  </script>
+</head>
+<body>
+  <a-scene>
+    <!-- Camera entity -->
+    <a-camera position="0 1.6 0"></a-camera>
+
+    <!-- 3D model entity -->
+    <a-entity gltf-model="vilasini_asset/1ggp06e_van_hoye_bart_house_model/scene.gltf"rotation="0 360 0" scale="2 2 2" position="0 0 0"animation-mixer="clip:*; loop: true; timeScale: 1.0;"></a-entity> 
+    <a-entity gltf-model="vilasini_asset/pubg_mobile_hello_waving_hand_animation/scene.gltf"rotation="0 360 0" scale="1.5 1.5 1.5" position="0 1 8"animation-mixer="clip:*; loop: true; timeScale: 1.0;"></a-entity> 
+    <a-entity gltf-model="vilasini_asset/aboflah_salute_animation/scene.gltf"rotation="0 120 0" scale="1.5 1.5 1.5" position="-1 0 12"animation-mixer="clip:*; loop: true; timeScale: 1.0;"></a-entity> 
+    <a-entity gltf-model="vilasini_asset/labrador_dog/scene.gltf"rotation="0 90 0" scale="0.3 0.3 0.3" position="-1 0 13"animation-mixer="clip:*; loop: true; timeScale: 1.0;"></a-entity> 
+    <a-entity gltf-model="vilasini_asset/man_sitting/scene.gltf"rotation="0 90 0" scale="1.2 1.2 1.2" position="-2 0 -12"animation-mixer="clip:*; loop: true; timeScale: 1.0;"></a-entity>
+   <a-entity gltf-model="vilasini_asset/channel_surfing_on_christmas/scene.gltf"rotation="0 -90 0" scale="1.2 1.2 1.2" position="5 1.7 -12"animation-mixer="clip:*; loop: true; timeScale: 1.0;"></a-entity> 
+ 
+    <!-- Moon -->
+    <a-sphere color="#F0E68C" radius="5" position="-20 30 -50"></a-sphere>
+    <!-- Black sky -->
+    <a-sky color="#000"></a-sky>
+
+    <!-- Light source -->
+    <a-light type="ambient" color="#FFF"></a-light>
+  </a-scene>
+</body>
+</html>
