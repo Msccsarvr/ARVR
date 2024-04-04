@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arche - Low Poly Model
+* source:	https://sketchfab.com/3d-models/arche-low-poly-model-3991917643074bf8bfe21586275770b2
+* author:	joevdhooff (https://sketchfab.com/joevdhooff)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arche - Low Poly Model" (https://sketchfab.com/3d-models/arche-low-poly-model-3991917643074bf8bfe21586275770b2) by joevdhooff (https://sketchfab.com/joevdhooff) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

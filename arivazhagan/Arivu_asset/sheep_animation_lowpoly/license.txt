@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sheep animation lowpoly
+* source:	https://sketchfab.com/3d-models/sheep-animation-lowpoly-c6c3e2133cd244f493a704eb8f470a2f
+* author:	EREMA_GEP (https://sketchfab.com/EREMA_GEP)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sheep animation lowpoly" (https://sketchfab.com/3d-models/sheep-animation-lowpoly-c6c3e2133cd244f493a704eb8f470a2f) by EREMA_GEP (https://sketchfab.com/EREMA_GEP) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

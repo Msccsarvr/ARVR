@@ -1,0 +1,11 @@
+Model Information:
+* title:	3D Low Poly Wooden Fence
+* source:	https://sketchfab.com/3d-models/3d-low-poly-wooden-fence-761720e68d8e49a0a39d41d4b28feb61
+* author:	tayagrebu (https://sketchfab.com/tayagrebu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3D Low Poly Wooden Fence" (https://sketchfab.com/3d-models/3d-low-poly-wooden-fence-761720e68d8e49a0a39d41d4b28feb61) by tayagrebu (https://sketchfab.com/tayagrebu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
