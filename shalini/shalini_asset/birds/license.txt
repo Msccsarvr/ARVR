@@ -1,0 +1,11 @@
+Model Information:
+* title:	birds
+* source:	https://sketchfab.com/3d-models/birds-5b957f503ad040a4bcf850680f9f6b45
+* author:	Ha Van (https://sketchfab.com/nganha2169)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "birds" (https://sketchfab.com/3d-models/birds-5b957f503ad040a4bcf850680f9f6b45) by Ha Van (https://sketchfab.com/nganha2169) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
