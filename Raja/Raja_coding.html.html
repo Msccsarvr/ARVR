@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+  <script src="https://raw.githack.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.min.js"></script>
+  <script src="https://raw.githack.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
+  <script>
+    THREEx.ArToolkitContext.baseURL = 'https://raw.githack.com/jeromeetienne/ar.js/master/three.js/';
+  </script>
+</head>
+<body>
+  <a-scene embedded arjs="trackingMethod: best; sourceType: webcam;">
+    <a-assets>
+      <img id="island" src="path_to_your_island_image.jpg">
+    </a-assets>
+
+    <a-camera-static position="0 1.6 0"></a-camera-static>
+
+    <!-- Define the AR anchor for hit testing -->
+    <a-entity arjs-anchor></a-entity>
+
+    <!-- Island background -->
+    <a-plane position="1 1 1" rotation="-90 0 0" width="20" height="20" color="#87CEEB"></a-plane>  
+
+    <!-- Penguin animations -->
+    <a-entity gltf-model="Raja_asset/dancing_penguin/scene.gltf" rotation="0 360 0" scale="0.1 0.1 0.1" position="60 -12 -390" animation-mixer="clip:Scene;" arjs-hit-testing></a-entity>
+    <a-entity gltf-model="Raja_asset/island/scene.gltf" rotation="0 360 0" scale="0.1 0.1 0.1" position="-80 -8 -150" animation-mixer="clip:Take 001;" arjs-hit-testing></a-entity>
+    <a-entity gltf-model="Raja_asset/cloud__sun_anim/scene.gltf" rotation="0 370 0" scale="0.1 0.1 0.1" position="-46 188 -900" animation-mixer="clip:*;" arjs-hit-testing></a-entity>
+<a-entity gltf-model="Raja_asset/penguin_rigged_and_animated/scene.gltf" rotation="0 3180 0" scale="1 1 1" position="0 1 0" animation-mixer="clip:*;" arjs-hit-testing></a-entity>
+<a-entity gltf-model="Raja_asset/birds/scene.gltf" rotation="0 3180 0" scale="1 1 1" position="2 4 0" animation-mixer="clip:*;" arjs-hit-testing></a-entity>
+
+    <!-- Visualization elements -->
+    <a-sphere position="0 1 -5" radius="0.25" color="skyblue"></a-sphere>  
+
+    <!-- Lighting -->
+    <a-light type="ambient" color="#CCC"></a-light>
+  </a-scene>
+</body>
+</html>
