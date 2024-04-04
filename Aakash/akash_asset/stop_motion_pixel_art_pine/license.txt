@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stop Motion Pixel Art Pine
+* source:	https://sketchfab.com/3d-models/stop-motion-pixel-art-pine-f71c4a043af84b3aa390421980e993b7
+* author:	Jorma Rysky (Joona Venäläinen) (https://sketchfab.com/Rysky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stop Motion Pixel Art Pine" (https://sketchfab.com/3d-models/stop-motion-pixel-art-pine-f71c4a043af84b3aa390421980e993b7) by Jorma Rysky (Joona Venäläinen) (https://sketchfab.com/Rysky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
